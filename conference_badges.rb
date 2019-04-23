@@ -14,3 +14,8 @@ def assign_rooms(speaker_list)
   speaker_list.each_with_index {|speaker, index| output << "Hello, #{speaker}! You'll be assigned to room #{index.to_i+1}!"}
   output
 end
+
+def printer
+
+
+end
